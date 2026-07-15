@@ -29,7 +29,22 @@ export const config = {
             technologies: ["Research", "Innovation", "Open Source", "New Tech"]
       }
     ],
-       
+       experiences: [
+    {
+        position: "Cloud Engineer",
+        company: "Personal Projects",
+        period: "2025 - Present",
+        location: "Pakistan",
+        description: "Continuously exploring emerging technologies...",
+        responsibilities: [
+            "Researching cutting-edge AI and ML technologies",
+            "Experimenting with new frameworks and tools",
+            "Contributing to open-source projects",
+            "Building innovative personal projects"
+        ],
+        technologies: ["Research", "Innovation", "Open Source", "New Tech"]
+    }
+],
      
     projects: [
         {
