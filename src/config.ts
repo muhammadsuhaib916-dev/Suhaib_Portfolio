@@ -3,7 +3,7 @@ export const config = {
         name: "Suhaib",
         fullName: "Muhammad Suhaib",
         title: "Computer Science Student",
-        description: " Computer Science student passionate about Cloud Computing, DevOps, and Web Development."
+        description: "Computer Science student passionate about Cloud Computing, DevOps, and Web Development."
     },
     social: {
         github: "muhammadsuhaib916-dev",
@@ -17,8 +17,8 @@ export const config = {
     experiences: [
         {
             position: "Cloud Engineer",
-
-            
+            company: "Freelance / Self-Directed", // ⚠️ replace with your actual company/org name
+            period: "2023 - Present",              // ⚠️ replace with your actual date range
             location: "Pakistan",
             description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
             responsibilities: [
@@ -28,9 +28,11 @@ export const config = {
                 "Building innovative personal projects"
             ],
             technologies: ["Research", "Innovation", "Open Source", "New Tech"]
-        },
-       
-     
+        }
+        // ⚠️ If you have more experience entries, add them here — each one
+        // needs position, company, period, location, description,
+        // responsibilities, and technologies to match the type.
+    ],
     projects: [
         {
             id: 1,
@@ -102,7 +104,8 @@ export const config = {
         github: "https://github.com/muhammadsuhaib916-dev",
         linkedin: "www.linkedin.com/in/muhammad-suhaib916",
         twitter: "https://x.com/suhaibxof/",
-        instagram: "https://www.instagram.com/malik_suhaib67/"
+        instagram: "https://www.instagram.com/malik_suhaib67/",
+        facebook: "https://facebook.com/yourprofile" // ⚠️ replace with your actual Facebook link, or remove this line and the reference to it in Contact.tsx if you don't want a Facebook link
     },
     skills: {
         develop: {
