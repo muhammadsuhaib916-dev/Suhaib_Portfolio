@@ -28,7 +28,8 @@ export const config = {
                 "Building innovative personal projects"
             ],
             technologies: ["Research", "Innovation", "Open Source", "New Tech"]
-        },
+      }
+    ],
        
      
     projects: [
