@@ -118,6 +118,7 @@ export const config = {
         linkedin: "www.linkedin.com/in/muhammad-suhaib916",
         twitter: "https://x.com/suhaibxof/",
         instagram: "https://www.instagram.com/malik_suhaib67/"
+        facebook: ""  
     },
     skills: {
         develop: {
