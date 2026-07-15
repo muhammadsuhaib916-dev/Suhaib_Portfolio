@@ -17,8 +17,7 @@ export const config = {
     experiences: [
         {
             position: "Cloud Engineer",
-
-            
+            company: "Personal Projects",
             location: "Pakistan",
             description: "Continuously exploring emerging technologies, researching advanced AI systems, and pushing the boundaries of what's possible in tech.",
             responsibilities: [
